@@ -1,0 +1,205 @@
+* {
+  font-family: Arial, Verdana, sans-serif;
+
+}
+
+body {
+  background-color: #e9eae9;
+}
+
+.header {
+background-color:#282828;
+text-align: center;
+margin-top: 4%;
+margin-left: 5%;
+margin-right: 5%;
+margin-bottom: 1%;
+padding-top: 1%;
+padding-bottom: 1%;
+}
+
+.kontaktinfo{
+	font-size:1em;
+	color:white;
+}
+
+span {
+color: #282828;
+}
+
+
+/* h3, .header {
+background-color: #22ab03;
+} */
+
+.tile {
+  font-size: 20px;
+  font-family: Times, cursive;
+}
+
+#location {
+width: 60%;
+border-style: solid;
+border-color: white;
+border-width: thick;
+padding: 0.2% 0.2% 0.2% 0.2%;
+margin-bottom: 3%;
+margin-left: 19%;
+margin-right: 19%;
+
+}
+
+.h33 {
+background-color: #22ab03;
+color: white;
+margin-bottom: 3%;
+margin-top: 3%;
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+}
+
+.h3 {
+color: white;
+margin-bottom: 5%;
+}
+
+#infoi {
+width: 3%;
+height: 3%;
+}
+
+#anrede, #betreff, #mitteilung {
+background-color: white;
+}
+
+.dat, .titels {
+color: black;
+}
+
+.dat {
+color: black;
+text-align: center;
+margin-bottom: 1%;
+}
+
+#locat {
+width: 30%;
+margin-top: 1%;
+}
+
+#formu {
+width: 70%;
+float: left;
+margin-left: 3%;
+margin-right: 2%;
+}
+
+#telefon{
+width: 30%;
+margin-top: 1%;
+}
+
+#mail {
+width: 30%;
+}
+
+#lupe {
+width: 4.5%;
+text-align:center;
+margin-left: 25%;
+margin-right: 25%;
+margin-bottom: 3.3%;
+
+}
+
+.placeholder {
+
+}
+
+p.ktitel {
+  border-style: solid;
+  border-color: white;
+  border-width: thin;
+}
+
+.h3 {
+text-align: center;
+margin-top: 0.1%;
+margin-left: 10%;
+margin-right: 10%;
+padding-top: 0.4%;
+padding-bottom: 0.4%;
+}
+
+.tit {
+color: white;
+text-align:left;
+}
+
+#anred {
+margin-bottom: 3%;
+color: white;
+text-align:left;
+
+}
+
+#vorname {
+width:50em;
+display: block;
+margin-bottom: 3%;
+}
+
+#nachname {
+width:50em;
+display: block;
+margin-bottom: 3%;
+}
+
+#email {
+width:50em;
+margin-bottom: 3%;
+display: block;
+}
+
+#bete {
+width:50em;
+margin-bottom: 5%;
+display: block;
+}
+
+#textarea {
+max-width:50em;
+margin-right:10%;
+margin-top: 3%;
+margin-bottom: 3%;
+display: block;
+}
+
+#blanc {
+text-align: center;
+padding-top: 1%;
+padding-bottom: 1%;
+color: white;
+background-color: black;
+}
+
+#butt{
+	color:white;
+	text-align: center;
+	background-color:#22ab03;
+	border-style:none;
+	width:50%;
+	padding:2% 5%;
+	
+}
+
+.kontakt{
+	text-align:left;
+}
+
+.formular-daten{
+	text-align:left;
+}

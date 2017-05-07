@@ -1,0 +1,43 @@
+.cuerpoTeam {
+ background-color: #e9eae9;
+
+}
+
+.imgteam {
+  max-width: 100%;
+  padding: 1%;
+  width: 50%;
+}
+
+.nameTeam {
+  color: #22ab03;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-size: 150%;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+
+.profil {
+  box-shadow: 0 0 1em  grey;
+  background-color: #fefefe;
+  padding: 5% 7%;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  background: #e9eae9;
+  width: 100%;
+
+}
+
+.teamP {
+  text-align: left;
+  padding: 5%;
+}
+
+/*EINFÜGUNG JESS*/
+#team{
+	font-size:2em;
+	color:black;
+	text-align:center;
+}

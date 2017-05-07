@@ -1,0 +1,195 @@
+/* * {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+body {
+  background-color: #282828;
+} */
+
+#Absatz {
+color: white;
+text-align: center;
+padding-top: 0.5%;
+padding-bottom: 0.5%;
+}
+
+/* .header {
+background-color:lime;
+text-align: center;
+padding-bottom: 0.1%;
+padding-top: 2%;
+font-size: 2em;
+} */
+
+.h4 {
+padding-left:2em;
+text-align: left;
+color:#22ab03;
+}
+
+.images {
+width: 80%;
+border-radius: 29%;
+}
+
+#webp {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+#appp {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+#logop {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+#dpp {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+#stap {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+#manap {
+width: 130%;
+font-size: 100%;
+height: 100%;
+color:black;
+}
+
+h4 , p {
+color: white;
+}
+
+/* #zweiteh {
+background-color: #22ab03;
+} */
+
+h5 {
+border-bottom: 7px solid #282828;
+color: black;
+}
+
+h6 {
+background-color: #22ab03;
+color: black;
+}
+
+.paketen {
+background-color: white
+}
+
+#angebote {
+color: white;
+text-align: center;
+/* margin-right: 16%; */
+/* margin-left: 18%; */
+/* padding-top: 2%; */
+/* padding-bottom: 2%; */
+}
+
+.paket-inhalt{
+	text-align:left;
+	font-size:1em;
+}
+.h11 {
+color: #adadad
+}
+
+.h55 {
+background-color: white;
+margin-right: 27%;
+margin-left: 29%;
+margin-top: 2%;
+}
+
+.preis {
+text-align: center;
+padding-top: 2%;
+padding-bottom: 2%;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+#baspak {
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+#standpak {
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+ul {
+font-size: 100%;
+font-weight: normal;
+list-style:square;
+list-style-position: inside;
+color: black;
+padding:5%;
+}
+
+.zweitep {
+background-color: white;
+margin-right: 27%;
+margin-left: 29%;
+margin-top: 6%;
+}
+
+.ccol {
+background-color: #282828;
+}
+
+.drittep {
+background-color: white;
+margin-right: 27%;
+margin-left: 29%;
+margin-top: 6%;
+margin-bottom: 4%;
+}
+
+#prepak {
+padding-top: 3%;
+padding-bottom: 3%;
+text-align: center;
+font-size: 1.5em;
+font-weight: bold;
+}
+
+#blanc {
+text-align: center;
+padding-top: 0.1%;
+padding-bottom: 0.1%;
+color: white;
+}
+
+#blanc2 {
+text-align: center;
+padding-top: 0.1%;
+padding-bottom: 0.1%;
+color: #282828;
+}

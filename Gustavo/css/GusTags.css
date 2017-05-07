@@ -1,0 +1,73 @@
+/* +++++++++++++++++++++++++++++++ Begin Jess index content ++++++++++ */
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Verdana, sans-serif;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#active-link{
+	background-color: #22ab03;
+	color:white;
+}
+
+body{
+	margin:0;
+	font-size: small;
+	font-family: Arial, Verdana, sans-serif;
+	color:#4e5359;
+	background-color:#e9eae9;
+}
+
+main{
+	padding-top:9%;
+	background-color:#e9eae9;
+	display: block;
+}
+
+
+/* +++++++++++++++++++++++++++++++End Jess index content ++++++++++ */
+
+/*+++++++++++++++++++++++++++++++++ Begin GusTegs+++++++++++++*/
+a {
+  color: white;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+}
+
+/* img {
+    max-width: 100%;
+    border-radius: 2%;
+    padding: 1%;
+    width: 20%;
+} */
+
+h1, h2, h3 {
+ margin-top: 2%;
+ margin-bottom: 2%;
+ font-family: "Open Sans", sans-serif;
+ font-weight: bold;
+ color: #a7b7b5;
+}
+
+button.accordion {
+    background-color: white;
+    color: #4e5359;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-size: 150%;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+    background-color: white;
+
+
+}
